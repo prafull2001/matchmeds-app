@@ -1,4 +1,4 @@
-# matchmeds-app
+# matchmeds-demo-app
 MatchMeds Demo React App
 
 ## About the Project
