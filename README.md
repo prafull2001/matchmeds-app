@@ -13,7 +13,10 @@ Able to create clinic and patient objects. The prescriptions available to patien
 * [NodeJS](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/)
 
-## Getting Started 
+## Public URL
+http://matchmeds.us/matching
+
+## Getting Started - Local Build
 ### Prerequisites
 Ensure you have the latest version of node
 ```sh
